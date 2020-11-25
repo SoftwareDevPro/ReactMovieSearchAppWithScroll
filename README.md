@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+
+# Getting Started with React-based Movie Application with scrolling and OMDB API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
